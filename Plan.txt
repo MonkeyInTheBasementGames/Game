@@ -1,0 +1,10 @@
+Plan:
+
+Game Idea 1:
+Platformer:
+Would have super marioesque art style (the old pixelly ones)
+Special game mechanic:
+Players would  have a limited number of lives which would vary from level to level, when a player dies a block would be spawned in the place 
+of their dead body. The player could then use this block to jump off of. Levels would be designed so that players would have to plan  where
+they would want to die. This game would require a lot of skill in the later levels because players would have to repeat jumps multiple times
+in order to get to a spot where they could make further progress through the map, this process would then have to be repeated multiple times.
