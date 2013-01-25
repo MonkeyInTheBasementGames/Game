@@ -8,3 +8,5 @@ Players would  have a limited number of lives which would vary from level to lev
 of their dead body. The player could then use this block to jump off of. Levels would be designed so that players would have to plan  where
 they would want to die. This game would require a lot of skill in the later levels because players would have to repeat jumps multiple times
 in order to get to a spot where they could make further progress through the map, this process would then have to be repeated multiple times.
+
+I would hope that we would be able to keep the map editor-however it would have to be modified 
